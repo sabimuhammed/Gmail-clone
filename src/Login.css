@@ -1,0 +1,16 @@
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    position: relative;
+    flex-direction: column;
+}
+.loginContainer > img {
+    object-fit: contain;
+    height:200px;
+}
+.login > Button {
+    width:125px
+}
+
